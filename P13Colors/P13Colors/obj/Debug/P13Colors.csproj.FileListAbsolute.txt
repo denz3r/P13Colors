@@ -1,0 +1,9 @@
+C:\Users\Denz\source\repos\P13Colors\P13Colors\bin\Debug\P13Colors.exe.config
+C:\Users\Denz\source\repos\P13Colors\P13Colors\bin\Debug\P13Colors.exe
+C:\Users\Denz\source\repos\P13Colors\P13Colors\bin\Debug\P13Colors.pdb
+C:\Users\Denz\source\repos\P13Colors\P13Colors\obj\Debug\P13Colors.csprojAssemblyReference.cache
+C:\Users\Denz\source\repos\P13Colors\P13Colors\obj\Debug\P13Colors.Form1.resources
+C:\Users\Denz\source\repos\P13Colors\P13Colors\obj\Debug\P13Colors.Properties.Resources.resources
+C:\Users\Denz\source\repos\P13Colors\P13Colors\obj\Debug\P13Colors.csproj.GenerateResource.cache
+C:\Users\Denz\source\repos\P13Colors\P13Colors\obj\Debug\P13Colors.exe
+C:\Users\Denz\source\repos\P13Colors\P13Colors\obj\Debug\P13Colors.pdb
